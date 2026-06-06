@@ -28,8 +28,6 @@ A few public places to start:
 
 Some repositories here are active foundations used in current product work. Others are older experiments, educational projects, useful forks, or archives kept public because they may still help someone.
 
-We also work in partnership with [Awe & Reverence](https://github.com/aweandreverence) product work, where Hacktoolkit patterns and tooling support Django, Expo, CSS, shell, and web foundations across Christian software projects.
-
 ## Our posture
 
 We are builders who like sharp tools, readable code, and durable defaults.
